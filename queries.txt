@@ -1,0 +1,1 @@
+query_id=AAHRNVErAgAAANE1USs-8726&user=%7B%22id%22%3A5021709777%2C%22first_name%22%3A%22trash%22%2C%22last_name%22%3A%22cr%20%F0%9F%8C%B1SEED%22%2C%22username%22%3A%22Nxhdz1%22%2C%22language_code%22%3A%22vi%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727788089&hash=d2d9653184a149a89aab1f21906bab3c30654260e282dee1c39caa2b6f5fdf92
